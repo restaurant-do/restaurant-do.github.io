@@ -1,11 +1,10 @@
-<!-- ---
+---
 layout: page
 title: Examples
 image: assets/images/speisen.jpg
-nav-menu: true
---- -->
-
-<!-- Uncomment above lines to serve the example -->
+nav-menu: false
+show_tile: false
+---
 
 <!-- Main -->
 <div id="main" class="alt">

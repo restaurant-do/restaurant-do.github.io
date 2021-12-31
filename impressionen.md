@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Impressionen
-image: assets/images/speisen.jpg
+# image: assets/images/speisen.jpg
 nav-menu: true
 order: 0
 ---

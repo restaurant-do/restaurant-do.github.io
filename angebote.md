@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Angebote
-image: assets/images/speisen.jpg
+# image: assets/images/speisen.jpg
 nav-menu: true
 order: 1
 ---
