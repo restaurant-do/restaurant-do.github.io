@@ -211,5 +211,10 @@ order: 1
         </table>
       </div>
     </div>
+    <footer class="major">
+      <div class="box">
+        [Allergenkennzeichnung] 1: Koffeinhaltig – 2: mit Farbstoff – A: Weizenmehl – B: Krebstiere – C: Eier – D: Fisch – E: Erdnüsse – F: Soja – G: Milchprodukte – H: Mandeln – N: Sesamsamen – O: Schwefeldioxid, Sulfite – P: Lupinen – R: Tintenfisch
+      </div>
+    </footer>
   </section>
 </div>
