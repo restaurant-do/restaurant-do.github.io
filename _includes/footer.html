@@ -1,0 +1,87 @@
+<!-- Contact -->
+<section id="contact">
+	<div class="inner">
+		<section>
+      <div class="contact-method">
+        <span class="icon alt fa-home"></span>
+        <h3>Adresse</h3>
+      </div>
+      <div class="map-responsive">
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10372.802892280042!2d11.0999924!3d49.4618219!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3752aade544fead2!2sChina-Thai%20Restaurant%20Do!5e0!3m2!1sde!2sde!4v1640801671858!5m2!1sde!2sde"
+          width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+      </div>
+		</section>
+		<section class="split">
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-clock-o"></span>
+					<h3>Öffnungszeiten</h3>
+					<span>
+            Montag, Mittwoch bis Sonntag<br />
+            11:30 - 14:30 Uhr und 17:00 - 22:00 Uhr<br />
+            <br />
+            Dienstag ist Ruhetag (außer Feiertag)
+					</span>
+				</div>
+			</section>
+      <section>
+        <div class="contact-method">
+          <span class="icon alt fa-phone"></span>
+          <h3>Phone</h3>
+          <a href="tel:{{ site.phone }}">{{ site.phone }}</a>
+        </div>
+      </section>
+      <section>
+        <div class="contact-method">
+          <span class="icon alt fa-envelope"></span>
+          <h3>Email</h3>
+          <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+        </div>
+      </section>
+		</section>
+	</div>
+</section>
+
+<!-- Footer -->
+	<footer id="footer">
+		<div class="inner">
+			<ul class="icons">
+				{% for key_value in site.socials %}
+					{% if key_value[1] %}
+						<li>
+							<a href="{{ key_value[1] }}" class="icon alt fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
+								<span class="label">{{ key_value[0] }}</span>
+							</a>
+						</li>
+					{% endif %}
+				{% endfor %}
+			</ul>
+			<ul class="copyright">
+				<li>
+          &copy; 2021 Developed by
+          <a href="https://longpdo.github.io/" target="_blank" rel="noreferrer">
+            Long Do
+          </a>
+        </li>
+				<li>Built with
+        <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer">
+          Jekyll
+        </a>
+        and powered by
+        <a href="https://pages.github.com/" target="_blank" rel="noreferrer">
+          Github Pages
+        </a></li>
+			</ul>
+		</div>
+	</footer>
+
+</div>
+
+<!-- Scripts -->
+	<script src="{{ "assets/js/jquery.min.js" | absolute_url }}"></script>
+	<script src="{{ "assets/js/jquery.scrolly.min.js" | absolute_url }}"></script>
+	<script src="{{ "assets/js/jquery.scrollex.min.js" | absolute_url }}"></script>
+	<script src="{{ "assets/js/skel.min.js" | absolute_url }}"></script>
+	<script src="{{ "assets/js/util.js" | absolute_url }}"></script>
+	<script src="{{ "assets/js/main.js" | absolute_url }}"></script>
