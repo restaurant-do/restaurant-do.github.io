@@ -3,7 +3,7 @@ layout: page
 title: Speisekarte
 image: assets/images/speisen.jpg
 nav-menu: true
-order: 2
+order: 3
 ---
 
 <div id="main" class="alt">

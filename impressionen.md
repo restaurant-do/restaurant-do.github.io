@@ -2,8 +2,10 @@
 layout: page
 title: Impressionen
 # image: assets/images/speisen.jpg
-nav-menu: true
+# nav-menu: true
 order: 0
+nav-menu: false
+show_tile: false
 ---
 
 <!-- Uncomment above lines to serve the example -->

@@ -3,7 +3,7 @@ layout: page
 title: Getränkekarte
 image: assets/images/getraenke.jpg
 nav-menu: true
-order: 3
+order: 2
 ---
 
 <div id="main" class="alt">
