@@ -5,6 +5,22 @@
   overflow-x: auto;
 }
 
+.getraenke table {
+  td {
+    padding: 0.25em 0.25em;
+
+    &:nth-child(1) {
+      text-align: start;
+    }
+
+    &:nth-child(2),
+    &:nth-child(3) {
+      text-align: end;
+      white-space: nowrap;
+    }
+  }
+}
+
 table {
   margin: 0 0 _size(element-margin) 0;
   width: 100%;

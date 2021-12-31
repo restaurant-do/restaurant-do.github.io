@@ -16,7 +16,7 @@ order: 2
       <div class="row">
         <div class="6u 12u$(small)">
           <h3>Flaschenbiere</h3>
-          <div class="table-wrapper">
+          <div class="table-wrapper getraenke">
             <table>
               <tbody>
                 <tr>
@@ -70,7 +70,7 @@ order: 2
                   <td>3,90 €</td>
                 </tr>
                 <tr>
-                  <td>Singha Bier 🇹🇭</td>
+                  <td>Tsingtao Bier 🇨🇳</td>
                   <td>0,33l</td>
                   <td>3,90 €</td>
                 </tr>
@@ -80,7 +80,7 @@ order: 2
         </div>
         <div class="6u$ 12u$(small)">
           <h3>Alkoholfreie Getränke</h3>
-          <div class="table-wrapper">
+          <div class="table-wrapper getraenke">
             <table>
               <tbody>
                 <tr>
@@ -175,7 +175,7 @@ order: 2
       <div class="row">
         <div class="6u 12u$(small)">
           <h3>Weißwein</h3>
-          <div class="table-wrapper">
+          <div class="table-wrapper getraenke">
             <table>
               <tbody>
                 <tr>
@@ -210,7 +210,7 @@ order: 2
         </div>
         <div class="6u$ 12u$(small)">
           <h3>Rotwein</h3>
-          <div class="table-wrapper">
+          <div class="table-wrapper getraenke">
             <table>
               <tbody>
                 <tr>
@@ -268,7 +268,7 @@ order: 2
       <div class="row">
         <div class="6u 12u$(small)">
           <h3>Schnäpse</h3>
-          <div class="table-wrapper">
+          <div class="table-wrapper getraenke">
             <table>
               <tbody>
                 <tr>
