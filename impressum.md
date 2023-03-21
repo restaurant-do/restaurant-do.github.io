@@ -19,7 +19,7 @@ order: 99
       </div>
       <div class="">
         <h3>Kontakt</h3>
-        <p>Telefon: 0911 / 47001898 <br> E-Mail: restaurant.do.info@gmail.com</p>
+        <p>Telefon: 0911 / 47001898 <br> E-Mail: restaurant.do.info@gmail.com <br> Tischreservierungen, bitte nur telefonisch per Anruf.</p>
       </div>
     </div>
     <h2 id="content">Haftungsausschluss (Disclaimer)</h2>
