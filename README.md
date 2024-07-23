@@ -1,3 +1,9 @@
+# Setup
+
+* gem install jekyll bundler
+* bundle install
+* bundle exec jekyll serve
+
 # How to Use
 
 Simply fork this repository and start editing the `_config.yml` file!
