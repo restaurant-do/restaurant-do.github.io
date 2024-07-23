@@ -1,4 +1,5 @@
-# This actually works, but lets check whether the usual github action "pages-build-deployment" also works
+# NOTE: This actually works, but is obsolete due to the github action "pages-build-deployment"
+# NOTE: If you want to use this again, move this to .github/workflows folder and uncomment lines under this note
 # name: Deploy to GitHub Pages
 # on:
 #   push:
