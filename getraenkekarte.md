@@ -22,57 +22,57 @@ order: 2
                 <tr>
                   <td>Jever Pilsener</td>
                   <td>0,33l</td>
-                  <td>3,80 €</td>
+                  <td>4,00 €</td>
                 </tr>
                 <tr>
                   <td>Clausthaler Alkoholfrei</td>
                   <td>0,50l</td>
-                  <td>4,50 €</td>
+                  <td>4,80 €</td>
                 </tr>
                 <tr>
                   <td>Tucher Urbräu Hell</td>
                   <td>0,50l</td>
-                  <td>4,20 €</td>
+                  <td>4,50 €</td>
                 </tr>
                 <tr>
                   <td>Tucher Urfränkisch Dunkel</td>
                   <td>0,50l</td>
-                  <td>4,20 €</td>
+                  <td>4,50 €</td>
                 </tr>
                 <tr>
                   <td>Tucher Leichtes Hefeweizen</td>
                   <td>0,50l</td>
-                  <td>4,50 €</td>
+                  <td>4,80 €</td>
                 </tr>
                 <tr>
                   <td>Tucher Hefeweizen Hell</td>
                   <td>0,50l</td>
-                  <td>4,50 €</td>
+                  <td>4,80 €</td>
                 </tr>
                 <tr>
                   <td>Tucher Hefeweizen Alkoholfrei</td>
                   <td>0,50l</td>
-                  <td>4,50 €</td>
+                  <td>4,80 €</td>
                 </tr>
                 <tr>
                   <td>Radler</td>
                   <td>0,50l</td>
-                  <td>4,20 €</td>
+                  <td>4,50 €</td>
                 </tr>
                 <tr>
                   <td>Colaweizen</td>
                   <td>0,50l</td>
-                  <td>4,50 €</td>
+                  <td>4,80 €</td>
                 </tr>
                 <tr>
                   <td>Singha Bier 🇹🇭</td>
                   <td>0,33l</td>
-                  <td>4,50 €</td>
+                  <td>4,80 €</td>
                 </tr>
                 <tr>
                   <td>Tsingtao Bier 🇨🇳</td>
                   <td>0,33l</td>
-                  <td>4,50 €</td>
+                  <td>4,80 €</td>
                 </tr>
               </tbody>
             </table>
@@ -90,8 +90,8 @@ order: 2
                     0,40l
                   </td>
                   <td>
-                    2,80 €<br>
-                    3,90 €
+                    3,00 €<br>
+                    4,20 €
                   </td>
                 </tr>
                 <tr>
@@ -101,14 +101,14 @@ order: 2
                     0,40l
                   </td>
                   <td>
-                    2,80 €<br>
-                    3,80 €
+                    3,00 €<br>
+                    4,20 €
                   </td>
                 </tr>
                 <tr>
                   <td>Selters Mineralwasser</td>
                   <td>0,70l</td>
-                  <td>6,50 €</td>
+                  <td>7,00 €</td>
                 </tr>
                 <tr>
                   <td>Schlör Apfel-, Orangen- oder Traubensaft</td>
@@ -117,14 +117,14 @@ order: 2
                     0,40l
                   </td>
                   <td>
-                    3,40 €<br>
-                    4,40 €
+                    3,60 €<br>
+                    4,80 €
                   </td>
                 </tr>
                 <tr>
                   <td>Apfel-, Orangen- oder Traubensaftschorle</td>
                   <td>0,40l</td>
-                  <td>4,10 €</td>
+                  <td>4,50 €</td>
                 </tr>
                 <tr>
                   <td>Mango-, Guaven-, Lychee- oder Ananassaft</td>
@@ -145,17 +145,17 @@ order: 2
                 <tr>
                   <td>Jasmin- oder Grüntee</td>
                   <td>Kanne</td>
-                  <td>4,50 €</td>
+                  <td>5,00 €</td>
                 </tr>
                 <tr>
                   <td>Frischer Ingwer-Tee mit Zitronengras oder Minze</td>
                   <td>Tasse</td>
-                  <td>4,50 €</td>
+                  <td>5,00 €</td>
                 </tr>
                 <tr>
                   <td>Kamillen-, Pfefferminz- oder Schwarztee</td>
                   <td>Tasse</td>
-                  <td>2,80 €</td>
+                  <td>3,00 €</td>
                 </tr>
                 <tr>
                   <td>Kaffee oder Espresso</td>
@@ -165,7 +165,7 @@ order: 2
                 <tr>
                   <td>Cappuccino</td>
                   <td>Tasse</td>
-                  <td>3,80 €</td>
+                  <td>4,00 €</td>
                 </tr>
               </tbody>
             </table>
@@ -181,12 +181,12 @@ order: 2
                 <tr>
                   <td>Blanc de Blancs – halbtrocken 🇫🇷 [O]</td>
                   <td>0,20l</td>
-                  <td>4,30 €</td>
+                  <td>4,80 €</td>
                 </tr>
                 <tr>
                   <td>Pinot Grigio delle Venezie – trocken 🇫🇷 [O]</td>
                   <td>0,20l</td>
-                  <td>4,80 €</td>
+                  <td>5,20 €</td>
                 </tr>
                 <tr>
                   <td>Chardonnay – trocken 🇫🇷 [O]</td>
@@ -194,13 +194,13 @@ order: 2
                     0,20l
                   </td>
                   <td>
-                    4,80 €
+                    5,20 €
                   </td>
                 </tr>
                 <tr>
                   <td>Blanchet Rosewein – trocken 🇫🇷 [O]</td>
                   <td>0,20l</td>
-                  <td>4,30 €</td>
+                  <td>4,80 €</td>
                 </tr>
               </tbody>
             </table>
@@ -214,31 +214,22 @@ order: 2
                 <tr>
                   <td>Vin de Pays d’oc Grenache – lieblich 🇫🇷 [O]</td>
                   <td>0,20l</td>
-                  <td>4,80 €</td>
-                </tr>
-                <tr>
-                  <td>Greatwall – trocken 🇨🇳 [O] </td>
-                  <td>
-                    0,20l
-                  </td>
-                  <td>
-                    5,50 €
-                  </td>
+                  <td>5,20 €</td>
                 </tr>
                 <tr>
                   <td>Vin de Pays d’oc Merlot – trocken 🇫🇷 [O]</td>
                   <td>0,20l</td>
-                  <td>4,80 €</td>
+                  <td>5,20 €</td>
                 </tr>
                 <tr>
                   <td>Vin de Pays d’oc Cabernet – trocken 🇫🇷 [O]</td>
                   <td>0,20l</td>
-                  <td>4,80 €</td>
+                  <td>5,20 €</td>
                 </tr>
                 <tr>
                   <td>Dornfelder Rheinhessen – halbtrocken 🇩🇪 [O]</td>
                   <td>0,20l</td>
-                  <td>4,30 €</td>
+                  <td>4,80 €</td>
                 </tr>
                 <tr>
                   <td>Weinschorle (weiß oder rot)</td>
@@ -284,16 +275,6 @@ order: 2
                 </tr>
                 <tr>
                   <td>Rosenschnaps 54%</td>
-                  <td>2cl</td>
-                  <td>4,20 €</td>
-                </tr>
-                <tr>
-                  <td>Jägermeister 44%</td>
-                  <td>2cl</td>
-                  <td>4,20 €</td>
-                </tr>
-                <tr>
-                  <td>Underberg 44%</td>
                   <td>2cl</td>
                   <td>4,20 €</td>
                 </tr>
