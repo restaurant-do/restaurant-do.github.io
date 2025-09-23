@@ -28,7 +28,7 @@ order: 1
             <tr>
               <td>M2</td>
               <td>Rindfleisch mit Gemüse nach Szechuan-Art 🌶🌶 [A,F]</td>
-              <td>12,80 €</td>
+              <td>12,00 €</td>
             </tr>
             <tr>
               <td>M3</td>
